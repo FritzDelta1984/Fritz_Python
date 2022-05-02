@@ -1,0 +1,24 @@
+db = pymysql.Connect
+
+更新pip Windows
+python -m pip install --upgrade pip
+
+
+windows
+https://www.jb51.net/article/180568.htm
+https://blog.csdn.net/qq_45085308/article/details/120867307
+https://www.jianshu.com/p/6c5f3cf7f380
+
+Python3 使用 pymysql 连接 MySQL 8.0 报错解决
+https://www.jianshu.com/p/6c5f3cf7f380
+pip install cryptography
+
+
+python3连接MySQL8.0
+
+
+pymysql cursor.execute 列表传参 
+
+https://blog.csdn.net/x8mouse/article/details/86502636
+https://blog.csdn.net/Charonmomo/article/details/109649356
+https://www.pythonheidong.com/blog/article/657174/808b0672603b742c2787/
